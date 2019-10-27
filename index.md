@@ -19,13 +19,13 @@ Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha prin
 ### Agosto
 
 Logo em Agosto, decidimos o tema, a abordagem e o cronograma que consistia em:
-1 - [x] Levantamento bibliográfico; 
-2 - [x] Levantamento da documentação dos softwares que serão utilizados; 
-3 - [x] Planejamento do projeto; 
-4 - [x] Entrega do pré-projeto; 
-5 - [x] Aplicar técnicas sobre os datasets; 
-6 - [x] Análise dos resultados; 
-7 - [x] Término do relatório científico;
-8 - [x] Publicação de resultados.
+ - [x] Levantamento bibliográfico; 
+ - [x] Levantamento da documentação dos softwares que serão utilizados; 
+ - [x] Planejamento do projeto; 
+ - [x] Entrega do pré-projeto; 
+ - [x] Aplicar técnicas sobre os datasets; 
+ - [x] Análise dos resultados; 
+ - [x] Término do relatório científico;
+ - [x] Publicação de resultados.
 
 
