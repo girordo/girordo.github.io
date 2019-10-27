@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+# Diário de bordo TCC
 
-You can use the [editor on GitHub](https://github.com/girordo/girordo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fiz este blog com o intuito de utilizá-lo como diário de bordo do meu trabalho de conclusão de curso.
+Aprendi esta técnica quando trabalhei no OMICS Lab em 2014 porém dessa vez apenas compartilharei meu markdown com essa cara mais bonitinha :)
+Como comecei em meados de Agosto, já estou bem avançado, mas vou tentar detalhar cada passagem por aqui
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### O tema
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Estou trabalhando com a expressão gênica no cérebro autista, conversando com meu orientador eu disse que gostaria de utilizar o que aprendi na minha iniciação científica e que o trabalho fosse relacionado a bioinformática.
+A princípio pensei num tema genérico(afinal meu curso já me deu dor de cabeça suficiente) entretanto meu orientador apresentou uma proposta para trabalharmos com dados públicos relacionados a expressão gênica de autistas.Também me incentivou a fazer um trabalho do qual eu me orgulhasse com encerramento dessa jornada tragicômica que foi minha graduação.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +27,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/girordo/girordo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
