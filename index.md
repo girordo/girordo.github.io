@@ -14,8 +14,18 @@ A princípio pensei num tema genérico(afinal meu curso já me deu dor de cabeç
 
 Antes que eu comece a publicar o código que está em outro repositório(também não sei usar isso daqui muito bem, estou testando o Github Pages como forma de aprendizado).
 Nada melhor do que ver o conteúdo teórico da faculdade na prática.
-Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha principal habilidade).
+Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha principal habilidade) e de acordo como eu me lembro.
 
+### Agosto
 
+Logo em Agosto, decidimos o tema, a abordagem e o cronograma que consistia em:
+1-[x] Levantamento bibliográfico; 
+2-[x] Levantamento da documentação dos softwares que serão utilizados; 
+3-[x] Planejamento do projeto; 
+4-[x] Entrega do pré-projeto; 
+5-[x] Aplicar técnicas sobre os datasets; 
+6-[x] Análise dos resultados; 
+7-[x] Término do relatório científico;
+8-[x] Publicação de resultados.
 
 
