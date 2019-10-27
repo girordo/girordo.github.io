@@ -1,0 +1,2 @@
+# girordo.github.io
+Blog
