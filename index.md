@@ -16,16 +16,26 @@ Antes que eu comece a publicar o código que está em outro repositório(também
 Nada melhor do que ver o conteúdo teórico da faculdade na prática.
 Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha principal habilidade) e de acordo como eu me lembro.
 
+## Logo em Agosto, decidimos o tema, a abordagem e o cronograma que consistia em:
+
 ### Agosto
 
-Logo em Agosto, decidimos o tema, a abordagem e o cronograma que consistia em:
- - [ ] Levantamento bibliográfico; 
- - [ ] Levantamento da documentação dos softwares que serão utilizados; 
- - [ ] Planejamento do projeto; 
- - [ ] Entrega do pré-projeto; 
- - [ ] Aplicar técnicas sobre os datasets; 
- - [ ] Análise dos resultados; 
- - [ ] Término do relatório científico;
- - [ ] Publicação de resultados.
+ - [x] Levantamento bibliográfico
+ - [x] Levantamento da documentação dos softwares que serão utilizados 
+ - [x] Planejamento do projeto 
+ - [x] Entrega do pré-projeto
 
+### Setembro
 
+ - [x] Aplicar técnicas sobre os datasets
+ - [x] Análise dos resultados 
+
+### Outubro
+
+ - [x] Aplicar técnicas sobre os datasets
+ - [x] Análise dos resultados
+ 
+ ### Novembro
+ 
+ - [x] Término do relatório científico;
+ - [x] Publicação de resultados.
