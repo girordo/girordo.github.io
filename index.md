@@ -37,5 +37,8 @@ Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha prin
  
  ### Novembro
  
- - [] Término do relatório científico;
- - [] Publicação de resultados.
+ - [ ] Término do relatório científico;
+ - [ ] Publicação de resultados.
+
+## Principais problemas
+ - Em Agosto, eu não esperava ter problemas, afinal era só a parte "chata" do processo.Levantamento, documentação, planejamento e a entrega. Para variar deixei tudo para última hora(meia verdade) e terminei tudo a tempo suficiente.
