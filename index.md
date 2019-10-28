@@ -15,6 +15,12 @@ A princípio pensei num tema genérico(afinal meu curso já me deu dor de cabeç
 Antes que eu comece a publicar o código que está em outro repositório(também não sei usar isso daqui muito bem, estou testando o Github Pages como forma de aprendizado).
 Nada melhor do que ver o conteúdo teórico da faculdade na prática.
 Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha principal habilidade) e de acordo como eu me lembro.
+O tema trata de algumas informações mais complexas mas prometo ser o mais simples possível.
+
+### A Proposta
+A proposta consistia em baixar dados públicos sobre a expressão gênica em pacientes autistas via *GEO Datasets*. Após isto verificaríamos a existência de outros grupos além dos abordados pelo artigo, os subgrupo. E para isso funcionar utilizaríamos aprendizado de máquina não supervisionado para criarmos esses subgrupos.
+Eu também não queria deixar passar nenhum dado, descartando para deixar os plots apenas esteticamente melhores.
+Então foi tomada a decisão de usarmos todos os dados e também colocar uma média para os pacientes válidos nos valores NAs(representação dos valores ausentes nos *dataframes*.
 
 ## Logo em Agosto, decidimos o tema, a abordagem e o cronograma que consistia em:
 
@@ -40,9 +46,18 @@ Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha prin
  - [ ] Término do relatório científico;
  - [ ] Publicação de resultados.
 
+
+
 ## Principais problemas
  - Em Agosto, eu não esperava ter problemas, afinal era só a parte "chata" do processo.<br>Levantamento, documentação, planejamento e a entrega. Para variar deixei tudo para última hora(meia verdade) porém consegui terminar tudo a tempo.
- - Setembro passou voando e quando me dei conta faltavam menos de 2 semanas para entrarmos em Outubro. Comecei a procurar tudo o que já tinha feito anteriormente relacionado a bioinformática. Como faria a aquisição de dados, quais pacotes utilizaria, quais gráficos utilizar, como fazer funcionar aquela parte específica do código, que parâmetros usar. Em algum momento lembro que boa parte disso se resolveu.
- - Outubro começou e eu já tinha parte das minhas análises prontas, fui pedindo a ajuda de amigos e procurando soluções no Biostars e Stack Overflow(meia verdade novamente). Muitas perguntas, por que usar a função t(), dist() dentro dos plots? Como saber se os gráficos estão corretos? Usar somente plot() seria o suficiente? Será que o método que estou utilizando está correto? Será que estou enviesando os dados de alguma maneira?
+ - Setembro passou voando e quando me dei conta faltavam menos de 2 semanas para entrarmos em Outubro. Comecei a procurar tudo o que já tinha feito anteriormente relacionado a bioinformática. Como faria a aquisição de dados, quais pacotes utilizaria, quais gráficos utilizar, como fazer funcionar aquela parte específica do código, que parâmetros usar. Durante Setembro também me surgiu uma duvida de como utilizar o aprendizado não supervisionado, eu nunca havia trabalhado com isso antes. Aliás era o que eu pelo menos achava.
+ Pesquisando vi que já tinha feito algumas coisas no passado relacionadas a aprendizado não supervisionado. Realmente essa parte de documentar é muito importante. :D
+ - Outubro começou e eu já tinha parte das minhas análises prontas, fui pedindo a ajuda de amigos e procurando soluções no Biostars e Stack Overflow(meia verdade novamente). Muitas perguntas, por que usar a função t(), dist() dentro dos plots? Usar somente plot() seria o suficiente? Será que o método que estou utilizando está correto? Será que estou enviesando os dados de alguma maneira?
  Contando com a ajuda do meu orientador e de alguns amigos que trabalharam comigo no OMICS Lab, pude concluir que estava bem amparado.
 Consegui bons resultados até então e aguardo as próximas reuniões para os próximos passos.
+
+## PCA Plot com a média dos pacientes válidos
+![pca1](/images/pca1.png)
+
+## PCA Plot com os NAs omitidos
+![pca2](/images/pca2.png)
