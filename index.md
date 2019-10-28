@@ -41,4 +41,8 @@ Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha prin
  - [ ] Publicação de resultados.
 
 ## Principais problemas
- - Em Agosto, eu não esperava ter problemas, afinal era só a parte "chata" do processo.Levantamento, documentação, planejamento e a entrega. Para variar deixei tudo para última hora(meia verdade) e terminei tudo a tempo suficiente.
+ - Em Agosto, eu não esperava ter problemas, afinal era só a parte "chata" do processo.<br>Levantamento, documentação, planejamento e a entrega. Para variar deixei tudo para última hora(meia verdade) porém consegui terminar tudo a tempo.
+ - Setembro passou voando e quando me dei conta faltavam menos de 2 semanas para entrarmos em Outubro. Comecei a procurar tudo o que já tinha feito anteriormente relacionado a bioinformática. Como faria a aquisição de dados, quais pacotes utilizaria, quais gráficos utilizar, como fazer funcionar aquela parte específica do código, que parâmetros usar. Em algum momento lembro que boa parte disso se resolveu.
+ - Outubro começou e eu já tinha parte das minhas análises prontas, fui pedindo a ajuda de amigos e procurando soluções no Biostars e Stack Overflow(meia verdade novamente). Muitas perguntas, por que usar a função t(), dist() dentro dos plots? Como saber se os gráficos estão corretos? Usar somente plot() seria o suficiente? Será que o método que estou utilizando está correto? Será que estou enviesando os dados de alguma maneira?
+ Contando com a ajuda do meu orientador e de alguns amigos que trabalharam comigo no OMICS Lab, pude concluir que estava bem amparado.
+Consegui bons resultados até então e aguardo as próximas reuniões para os próximos passos.
