@@ -35,7 +35,7 @@ Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha prin
  - [x] Aplicar técnicas sobre os datasets
  - [x] Análise dos resultados
  
- ### Novembro
+### Novembro
  
  - [ ] Término do relatório científico;
  - [ ] Publicação de resultados.
