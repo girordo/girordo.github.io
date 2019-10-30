@@ -18,7 +18,7 @@ Vou tentar ser deixar o mais claro possível(ainda que essa não seja minha prin
 O tema trata de algumas informações mais complexas mas prometo ser o mais simples possível.
 
 ### A Proposta
-A proposta consistia em baixar dados públicos sobre a expressão gênica em pacientes autistas via *GEO Datasets*. Após isto verificaríamos a existência de outros grupos além dos abordados pelo artigo, os subgrupo. E para isso funcionar utilizaríamos aprendizado de máquina não supervisionado para criarmos esses subgrupos.
+A proposta consistia em baixar dados públicos sobre a expressão gênica em pacientes autistas via *GEO Datasets*. Após isto verificaríamos a existência de outros grupos além dos abordados pelo artigo, os subgrupos. E para isso funcionar utilizaríamos aprendizado de máquina não supervisionado para criarmos esses subgrupos.
 Eu também não queria deixar passar nenhum dado, descartando para deixar os plots apenas esteticamente melhores.
 Então foi tomada a decisão de usarmos todos os dados e também colocar uma média para os pacientes válidos nos valores NAs(representação dos valores ausentes nos *dataframes*.
 
