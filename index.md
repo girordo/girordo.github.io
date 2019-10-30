@@ -43,10 +43,14 @@ Então foi tomada a decisão de usarmos todos os dados e também colocar uma mé
  
 ### Novembro
  
- - [ ] Término do relatório científico;
- - [ ] Publicação de resultados.
+ - [ ] Término do relatório científico
+ - [ ] Publicação de resultados
 
-
+## Técnicas utilizadas
+ - Aprendizado não supervisionado
+ - Técnica de *bootstrapping*
+ - Análise de componentes principais(PCA)
+ - *Clustering*
 
 ## Principais problemas
  - Em Agosto, eu não esperava ter problemas, afinal era só a parte "chata" do processo.<br>Levantamento, documentação, planejamento e a entrega. Para variar deixei tudo para última hora(meia verdade) porém consegui terminar tudo a tempo.
