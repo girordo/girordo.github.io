@@ -65,3 +65,6 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
 
 ## PCA Plot com os NAs omitidos
 ![pca2](/images/pca2.png)
+
+## Clusterização feita com a função pvclust() confirmando os PCAs
+![pvclust](/images/pvclust.png)
