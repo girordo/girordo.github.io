@@ -71,3 +71,15 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
 
 ## Clusterização feita com a função pvclust() confirmando os PCAs
 ![pvclust](/images/pvclust.png)
+
+## Clusterização sem a função pvrect()
+![pvclust_better](/images/pvclust_better.png)
+
+## Clusterização apenas de um tecido - Cerebelo
+![pvclust_cerebellum](/images/pvclust_cerebellum.png)
+
+## Clusterização apenas de um tecido - Frontal
+![pvclust_frontal](/images/pvclust_frontal.png)
+
+## Clusterização apenas de um tecido - Temporal
+![pvclust_temporal](/images/pvclust_temporal.png)
