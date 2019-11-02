@@ -59,6 +59,9 @@ Então foi tomada a decisão de usarmos todos os dados e também colocar uma mé
  - Outubro começou e eu já tinha parte das minhas análises prontas, fui pedindo a ajuda de amigos e procurando soluções no Biostars e Stack Overflow(meia verdade novamente). Muitas perguntas, por que usar a função t(), dist() dentro dos plots? Usar somente plot() seria o suficiente? Será que o método que estou utilizando está correto? Será que estou enviesando os dados de alguma maneira?
  Contando com a ajuda do meu orientador e de alguns amigos que trabalharam comigo no laboratório, pude concluir que estava bem amparado.
 Consegui bons resultados até então e aguardo as próximas reuniões para os próximos passos.
+ O PVClust possui um erro de interpretação. O que é chamado de *p-value* não é exatamente *p-value* .
+ *p-value* seria quanto mais se aproxima de zero e o mais distante de cem. No valor do *p-value* do PVClust funciona ao contrário.
+ Por isso os valores gerados com pvrect são próximos de 100 ou 100.
 
 ## PCA Plot com a média dos pacientes válidos
 ![pca1](/images/pca1.png)
