@@ -57,7 +57,7 @@ Então foi tomada a decisão de usarmos todos os dados e também colocar uma mé
  - Setembro passou voando e quando me dei conta faltavam menos de 2 semanas para entrarmos em Outubro. Comecei a procurar tudo o que já tinha feito anteriormente relacionado a bioinformática. Como faria a aquisição de dados, quais pacotes utilizaria, quais gráficos utilizar, como fazer funcionar aquela parte específica do código, que parâmetros usar. Durante Setembro também me surgiu uma duvida de como utilizar o aprendizado não supervisionado, eu nunca havia trabalhado com isso antes. Aliás era o que eu pelo menos achava.
  Pesquisando vi que já tinha feito algumas coisas no passado relacionadas a aprendizado não supervisionado. Realmente essa parte de documentar é muito importante. :D
  - Outubro começou e eu já tinha parte das minhas análises prontas, fui pedindo a ajuda de amigos e procurando soluções no Biostars e Stack Overflow(meia verdade novamente). Muitas perguntas, por que usar a função t(), dist() dentro dos plots? Usar somente plot() seria o suficiente? Será que o método que estou utilizando está correto? Será que estou enviesando os dados de alguma maneira?
- Contando com a ajuda do meu orientador e de alguns amigos que trabalharam comigo no OMICS Lab, pude concluir que estava bem amparado.
+ Contando com a ajuda do meu orientador e de alguns amigos que trabalharam comigo no laboratório, pude concluir que estava bem amparado.
 Consegui bons resultados até então e aguardo as próximas reuniões para os próximos passos.
 
 ## PCA Plot com a média dos pacientes válidos
