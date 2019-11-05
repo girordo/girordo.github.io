@@ -83,3 +83,6 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
 
 ## Clusterização apenas de um tecido - Temporal
 ![pvclust_temporal](/images/pvclust_temporal.png)
+
+## Histograma do coeficiente de variação dos genes
+![hist](/images/histograma_cv_with_omit_NA)
