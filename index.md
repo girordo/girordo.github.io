@@ -62,6 +62,8 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
  O PVClust possui um erro de interpretação. O que é chamado de *p-value* não é exatamente *p-value* .
  *p-value* seria quanto mais se aproxima de zero e o mais distante de cem. No valor do *p-value* do PVClust funciona ao contrário.
  Por isso os valores gerados com pvrect são próximos de 100 ou 100.
+ - Novembro já começamos com prazos apertados para entregar e definição da banca.
+ O trabalho praticamente está finalizado e estamos em processo de escrita agora. :)
 
 ## PCA Plot com a média dos pacientes válidos
 ![pca1](/images/pca1.png)
