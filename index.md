@@ -52,6 +52,27 @@ Então foi tomada a decisão de usarmos todos os dados e também colocar uma mé
  - Análise de componentes principais(PCA)
  - *Clustering*
 
+#### O que é aprendizado de máquina?
+Aprendizado de Máquina é uma área de inteligência artificial (I.A.) cujo objetivo é o desenvolvimento de técnicas computacionais sobre o aprendizado bem como a construção de sistemas capazes de adquirir conhecimento de forma automática. Um sistema de aprendizado é um programa de computador que toma decisões baseado em experiências acumuladas através da solução bem sucedida de problemas anteriores. Os diversos sistemas de aprendizado de máquina possuem características particulares e comuns que possibilitam sua classificação quanto à linguagem de descrição, modo, paradigma e forma de aprendizado utilizado.
+
+#### O que é aprendizado não supervisionado?
+A indução é a forma de inferência lógica que permite obter conclusões genéricas sobre um conjunto particular de exemplos. Ela é caracterizada como o raciocínio que se origina em um conceito específico e o generaliza, ou seja, da parte para o todo.  Na indução, um conceito é aprendido efetuando-se inferência indutiva sobre os exemplos apresentados.  Portanto, as hipóteses geradas através da inferência indutiva podem ou não preservar a verdade.Mesmo assim, a inferência indutiva é um dos principais métodos utilizados para derivar conhecimento novo e predizer eventos futuros. Apesar da indução ser o recurso mais utilizado pelo cérebro humano para derivar conhecimento novo, ela deve ser utilizada com cautela, pois se o número de exemplos for insuficiente,ou se os exemplos não forem bem escolhidos, as hipóteses obtidas podem ser de pouco valor. O aprendizado indutivo é efetuado a partir de raciocínio sobre exemplos fornecidos por um processo externo ao sistema de aprendizado.  O aprendizado indutivo pode ser dividido em supervisionado e não-supervisionado.
+
+#### O que é bootstrapping?
+É um método de reamostragem proposto por Bradley Efron em 1979. Utiliza-se para aproximar distribuição na amostra de um levantamento estatístico. Usa-se frequentemente para aproximar o viés ou a variância de um conjunto de dados estatísticos, assim como para construir intervalos de confiança ou realizar contrastes de hipóteses sobre parâmetros de interesse. Na maior parte dos casos não pode obter-se expressões fechadas para as aproximações bootstrap e portanto é necessário obter reamostragens em um ordenador para pôr em prática o método. A enorme capacidade de cálculo dos computadores atuais facilita consideravelmente a aplicabilidade deste método tão custoso computacionalmente.
+
+#### O que é análise dos componentes principais(PCA)?
+A Análise de Componentes Principais é uma técnica estatística de aprendizado não supervisionado para explicar dados de alta dimensão usando um número menor de variáveis que são chamadas de componentes principais.
+
+O PCA encontra instruções de variação máxima de dados.
+Encontra direções mutuamente ortogonais. Mutuamente ortogonais significa que é um algoritmo global. Global significa que todas as direções, todos os novos recursos que eles encontram têm uma grande restrição global, a saber, que eles devem ser mutuamente ortogonais.
+
+Basicamente o PCA transforma um conjunto de dados de alta dimensão em um subespaço de menor dimensão antes de executar um algoritmo de aprendizado de máquina nos dados.
+
+
+No aprendizado não-supervisionado, o indutor analisa os exemplos fornecidos e tenta determinar se alguns deles podem ser agrupados de alguma maneira, formando agrupamentos ou clusters. Após a determinação dos agrupamentos, normalmente,é necessária uma análise para determinar o que cada agrupamento significa no contexto do problema que está sendo analisado.
+
+
 ## Principais problemas
  - Em Agosto, eu não esperava ter problemas, afinal era só a parte "chata" do processo.<br>Levantamento, documentação, planejamento e a entrega. Para variar deixei tudo para última hora(meia verdade) porém consegui terminar tudo a tempo.
  - Setembro passou voando e quando me dei conta faltavam menos de 2 semanas para entrarmos em Outubro. Comecei a procurar tudo o que já tinha feito anteriormente relacionado a bioinformática. Como faria a aquisição de dados, quais pacotes utilizaria, quais gráficos utilizar, como fazer funcionar aquela parte específica do código, que parâmetros usar. Durante Setembro também me surgiu uma duvida de como utilizar o aprendizado não supervisionado, eu nunca havia trabalhado com isso antes. Aliás era o que eu pelo menos achava.
