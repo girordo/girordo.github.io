@@ -84,7 +84,8 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
  *p-value* seria quanto mais se aproxima de zero e o mais distante de cem. No valor do *p-value* do PVClust funciona ao contrário.
  Por isso os valores gerados com pvrect são próximos de 100 ou 100.
  - Novembro já começamos com prazos apertados para entregar e definição da banca.
- O trabalho praticamente está finalizado e estamos em processo de escrita agora. :)
+ Já começamos a escrita e as coisas estão fluindo muito bem, aparentemente vou conseguir entregar a tempo. :)
+ A princípio estava preocupado com o tempo estipulado.
 
 ## PCA Plot com a média dos pacientes válidos
 ![pca1](/images/pca1.png)
