@@ -86,6 +86,9 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
  - Novembro já começamos com prazos apertados para entregar e definição da banca.
  Já começamos a escrita e as coisas estão fluindo muito bem, aparentemente vou conseguir entregar a tempo. :)
  A princípio estava preocupado com o tempo estipulado.
+ A partir das figuras feitas com o R e suas bibliotecas pudemos atestar que os grupos se comportam de maneira similar, mesmo quando estão sob uma técnica de reamostragem.
+ Também se comportam da mesma maneira se *clusterizados* sozinhos(um tecido por vez).
+ Ainda nas figuras falta elas serem alteradas com os nomes das amostras que identificam melhor os dados.
 
 ## PCA Plot com a média dos pacientes válidos
 ![pca1](/images/pca1.png)
