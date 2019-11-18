@@ -100,6 +100,9 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
 ![pvclust](/images/pvclust.png)
 
 ## Clusterização sem a função pvrect()
+![pvclust_better](/images/pvclust_better.png)
+
+## Clusterização com os nomes das amostras
 ![pvclust_ohright](/images/pvclust_ohright.png)
 
 ## Clusterização apenas de um tecido - Cerebelo
