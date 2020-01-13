@@ -93,7 +93,7 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
  Já começamos a escrita e as coisas estão fluindo muito bem, aparentemente vou conseguir entregar a tempo. :)
  A princípio estava preocupado com o tempo estipulado.
  A partir das figuras feitas com o R e suas bibliotecas pudemos atestar que os grupos se comportam de maneira similar, mesmo quando estão sob uma técnica de reamostragem.
- Também se comportam da mesma maneira se *clusterizados* sozinhos(um tecido por vez).
+ Também se comportam da mesma maneira se agrupados individualmente(um tecido por vez).
  Ainda nas figuras falta elas serem alteradas com os nomes das amostras que identificam melhor os dados.
 
 ## PCA Plot com a média dos pacientes válidos
@@ -102,19 +102,19 @@ Consegui bons resultados até então e aguardo as próximas reuniões para os pr
 ## PCA Plot com os NAs omitidos
 ![pca2](/images/pca2.png)
 
-## Clusterização feita com a função pvclust() confirmando os PCAs
+## Clustering feita com a função pvclust() confirmando os PCAs
 ![pvclust](/images/pvclust.png)
 
-## Clusterização sem a função pvrect()
+## Clustering sem a função pvrect()
 ![pvclust_better](/images/pvclust_better.png)
 
-## Clusterização com os nomes das amostras
+## Clustering com os nomes das amostras
 ![pvclust_ohright](/images/pvclust_ohright.png)
 
-## Clusterização apenas de um tecido - Cerebelo
+## Clustering apenas de um tecido - Cerebelo
 ![pvclust_cerebellum](/images/pvclust_cerebellum.png)
 
-## Clusterização apenas de um tecido - Frontal
+## Clustering apenas de um tecido - Frontal
 ![pvclust_frontal](/images/pvclust_frontal.png)
 
 ## Clusterização apenas de um tecido - Temporal
