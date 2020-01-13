@@ -43,8 +43,8 @@ Então foi tomada a decisão de usarmos todos os dados e também colocar uma mé
  
 ### Novembro
  
- - [ ] Término do relatório científico
- - [ ] Publicação de resultados
+ - [x] Término do relatório científico
+ - [x] Publicação de resultados
 
 ## Técnicas utilizadas
  - Aprendizado não supervisionado
@@ -56,7 +56,13 @@ Então foi tomada a decisão de usarmos todos os dados e também colocar uma mé
 Aprendizado de Máquina é uma área de inteligência artificial (I.A.) cujo objetivo é o desenvolvimento de técnicas computacionais sobre o aprendizado bem como a construção de sistemas capazes de adquirir conhecimento de forma automática. Um sistema de aprendizado é um programa de computador que toma decisões baseado em experiências acumuladas através da solução bem sucedida de problemas anteriores. Os diversos sistemas de aprendizado de máquina possuem características particulares e comuns que possibilitam sua classificação quanto à linguagem de descrição, modo, paradigma e forma de aprendizado utilizado.
 
 #### O que é aprendizado não supervisionado?
-A indução é a forma de inferência lógica que permite obter conclusões genéricas sobre um conjunto particular de exemplos. Ela é caracterizada como o raciocínio que se origina em um conceito específico e o generaliza, ou seja, da parte para o todo.  Na indução, um conceito é aprendido efetuando-se inferência indutiva sobre os exemplos apresentados.  Portanto, as hipóteses geradas através da inferência indutiva podem ou não preservar a verdade.Mesmo assim, a inferência indutiva é um dos principais métodos utilizados para derivar conhecimento novo e predizer eventos futuros. Apesar da indução ser o recurso mais utilizado pelo cérebro humano para derivar conhecimento novo, ela deve ser utilizada com cautela, pois se o número de exemplos for insuficiente,ou se os exemplos não forem bem escolhidos, as hipóteses obtidas podem ser de pouco valor. O aprendizado indutivo é efetuado a partir de raciocínio sobre exemplos fornecidos por um processo externo ao sistema de aprendizado.  O aprendizado indutivo pode ser dividido em supervisionado e não-supervisionado.
+ISTO É APENAS UM TL;DR SOBRE O ASSUNTO
+
+No aprendizado não-supervisionado recebemos apenas dados de saída, sem nenhuma entrada;
+O conjunto de dados é uma coleção de exemplos não rotulados (ou não marcados);
+O objetivo de um algoritmo de aprendizado não-supervisionado é criar um modelo que use um vetor de características (features) numéricos como entrada e o transforme em outro vetor ou em um valor que possa ser usado para resolver um problema prático;
+Ao contrário do aprendizado supervisionado, ele não nos diz qual é o resultado desejado para cada entrada.
+
 
 #### O que é bootstrapping?
 É um método de reamostragem proposto por Bradley Efron em 1979. Utiliza-se para aproximar distribuição na amostra de um levantamento estatístico. Usa-se frequentemente para aproximar o viés ou a variância de um conjunto de dados estatísticos, assim como para construir intervalos de confiança ou realizar contrastes de hipóteses sobre parâmetros de interesse. Na maior parte dos casos não pode obter-se expressões fechadas para as aproximações bootstrap e portanto é necessário obter reamostragens em um ordenador para pôr em prática o método. A enorme capacidade de cálculo dos computadores atuais facilita consideravelmente a aplicabilidade deste método tão custoso computacionalmente.
